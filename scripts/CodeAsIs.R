@@ -119,7 +119,6 @@ for (i in 1:nrow(df)) {
            df$type[i],
            .05)
 }
-
 # As you see, with normally distributed data, N can
 # be very small and the t-test is fine. With a tweedie,
 # "large enough" can be many thousands. If we try

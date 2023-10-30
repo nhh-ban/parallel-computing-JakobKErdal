@@ -1,7 +1,6 @@
 # Assignment 1:  
 library(tweedie) 
 library(ggplot2)
-
 #running the doParallel library
 library(doParallel)
 
